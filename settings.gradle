@@ -1,1 +1,1 @@
-include ':app', ':styleandtheme', ':okhttp', ':retrofit'
+include ':app', ':styleandtheme', ':okhttp', ':retrofit', ':databinding', ':dataBindingLivedataViewMode', ':lifecycler', ':livedata', ':navigation', ':paging', ':viewmodel', ':workmanger'

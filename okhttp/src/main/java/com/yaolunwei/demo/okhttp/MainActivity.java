@@ -20,22 +20,18 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        new Thread() {
-            @Override
-            public void run() {
-                try {
-                    String getString = get(mGeturl);
-                    Log.d(TAG, getString);
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-            }
-        }.start();
+//        new Thread() {
+//            @Override
+//            public void run() {
+//                try {
+//                    String getString = get(mGeturl);
+//                    Log.d(TAG, getString);
+//                } catch (IOException e) {
+//                    e.printStackTrace();
+//                }
+//            }
+//        }.start();
 
     }
-
-
-
-
 
 }

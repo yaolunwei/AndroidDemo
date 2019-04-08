@@ -5,6 +5,7 @@ import java.io.IOException;
 import okhttp3.MediaType;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
+import okhttp3.Request.Builder;
 import okhttp3.RequestBody;
 import okhttp3.Response;
 
@@ -31,7 +32,7 @@ public class HTTP {
     // POST TO A SERVER
     private String post(final String url, String json) {
         RequestBody body = RequestBody.create(JSON, json);
-        Request request
+        return body.toString();
     }
 
 

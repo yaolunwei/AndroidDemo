@@ -3,11 +3,24 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidDemo.iml" filepath="$PROJECT_DIR$/AndroidDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidDemo.iml" filepath="$PROJECT_DIR$/AndroidDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataBindingLivedataViewMode/dataBindingLivedataViewMode.iml" filepath="$PROJECT_DIR$/dataBindingLivedataViewMode/dataBindingLivedataViewMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databinding/databinding.iml" filepath="$PROJECT_DIR$/databinding/databinding.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lifecycler/lifecycler.iml" filepath="$PROJECT_DIR$/lifecycler/lifecycler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/livedata/livedata.iml" filepath="$PROJECT_DIR$/livedata/livedata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigation/navigation.iml" filepath="$PROJECT_DIR$/navigation/navigation.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttp/okhttp.iml" filepath="$PROJECT_DIR$/okhttp/okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp/okhttp.iml" filepath="$PROJECT_DIR$/okhttp/okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paging/paging.iml" filepath="$PROJECT_DIR$/paging/paging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit/retrofit.iml" filepath="$PROJECT_DIR$/retrofit/retrofit.iml" />
       <module fileurl="file://$PROJECT_DIR$/retrofit/retrofit.iml" filepath="$PROJECT_DIR$/retrofit/retrofit.iml" />
       <module fileurl="file://$PROJECT_DIR$/styleandtheme/styleandtheme.iml" filepath="$PROJECT_DIR$/styleandtheme/styleandtheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/styleandtheme/styleandtheme.iml" filepath="$PROJECT_DIR$/styleandtheme/styleandtheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewmodel/viewmodel.iml" filepath="$PROJECT_DIR$/viewmodel/viewmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workmanger/workmanger.iml" filepath="$PROJECT_DIR$/workmanger/workmanger.iml" />
     </modules>
   </component>
 </project>
