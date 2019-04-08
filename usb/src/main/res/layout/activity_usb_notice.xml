@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".UsbNoticeActivity">
+
+    <TextView
+        android:layout_margin="30dp"
+        android:textSize="28sp"
+        android:textColor="#FF0000"
+        android:text="1. 先在 res/xml/device_filter.xml 添加设备编号 \n2. 插USB设备测试效果"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_margin="30dp"
+        android:textSize="28sp"
+        android:textColor="#FF0000"
+        android:text="请插入USB设备"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
