@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/okhttp/okhttp.iml" filepath="$PROJECT_DIR$/okhttp/okhttp.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttp/okhttp.iml" filepath="$PROJECT_DIR$/okhttp/okhttp.iml" />
       <module fileurl="file://$PROJECT_DIR$/paging/paging.iml" filepath="$PROJECT_DIR$/paging/paging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/retrofit/retrofit.iml" filepath="$PROJECT_DIR$/retrofit/retrofit.iml" />
       <module fileurl="file://$PROJECT_DIR$/retrofit/retrofit.iml" filepath="$PROJECT_DIR$/retrofit/retrofit.iml" />
       <module fileurl="file://$PROJECT_DIR$/styleandtheme/styleandtheme.iml" filepath="$PROJECT_DIR$/styleandtheme/styleandtheme.iml" />
